@@ -1,8 +1,8 @@
-# Wonder Women Investment Project
+# "WONDER WOMEN" Investment Project
 
 ## Overview
 
-**Wonder Women Investment Project** is an academic feasibility study and financial analysis of the "WONDER WOMEN" construction investment project. This research evaluates the project’s viability from both financial and socio-economic perspectives. The analysis covers:
+**"WONDER WOMEN" Investment Project** is an academic feasibility study and financial analysis of the "WONDER WOMEN" construction investment project. This research evaluates the project’s viability from both financial and socio-economic perspectives. The analysis covers:
 - Detailed breakdown of construction, equipment, project management, and contingency costs.
 - Comprehensive financial performance evaluation using static and dynamic indicators (NPV, IRR, payback period, sensitivity analysis).
 - Socio-economic impact assessment including job creation, added product value, and contribution to public revenue.
