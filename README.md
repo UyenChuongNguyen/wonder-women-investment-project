@@ -39,7 +39,7 @@ The project report is available in: [`Investment_Economics_Project (English).pdf
 
 ## License
 
-_This project is provided for educational and research purposes.
+_This project is provided for educational and research purposes._
 
 ## Contact
 
